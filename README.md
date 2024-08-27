@@ -146,6 +146,7 @@ Software Engineering Day1 Assignment
     Importance: Gaining user feedback, reducing the risk of rejection
 
 ## Part 2: Introduction to AI and Prompt Engineering
+
 ## Define prompt engineering and discuss its importance in interacting with AI models.
 
   Prompt Engineering
