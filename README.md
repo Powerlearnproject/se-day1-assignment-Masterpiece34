@@ -54,52 +54,52 @@ Software Engineering Day1 Assignment
 
 ## Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
-  Software Developer
-    Designs, develops, and maintains software applications
-    Writes and tests code according to specific requirements
-    Collaborates with other developers to ensure code is integrated and maintained
-    Works with Quality Assurance Engineers to identify and fix bugs
-    Stays up to date on latest development technologies and best practices
+      Software Developer
+        Designs, develops, and maintains software applications
+        Writes and tests code according to specific requirements
+        Collaborates with other developers to ensure code is integrated and maintained
+        Works with Quality Assurance Engineers to identify and fix bugs
+        Stays up to date on latest development technologies and best practices
 
-  Quality Assurance Engineer
-    Tests software applications to find and document bugs
-    Creates and executes test plans and cases to verify software functionality
-    Reports bugs and provides feedback to Software Developers
-    Collaborates with Project Managers to prioritize bug fixes
-    Ensures software meets quality standards and user expectations
+      Quality Assurance Engineer
+        Tests software applications to find and document bugs
+        Creates and executes test plans and cases to verify software functionality
+        Reports bugs and provides feedback to Software Developers
+        Collaborates with Project Managers to prioritize bug fixes
+        Ensures software meets quality standards and user expectations
 
-  Project Manager
-    Plans, organizes, and controls software development projects
-    Sets project goals, timelines, and budgets
-    Manages project resources, including staff, equipment, and materials
-    Communicate with stakeholders to keep them informed of project progress
-    Ensures projects are delivered on time, within budget, and to specifications
-    Resolves issues and makes decisions to ensure project success
+      Project Manager
+        Plans, organizes, and controls software development projects
+        Sets project goals, timelines, and budgets
+        Manages project resources, including staff, equipment, and materials
+        Communicate with stakeholders to keep them informed of project progress
+        Ensures projects are delivered on time, within budget, and to specifications
+        Resolves issues and makes decisions to ensure project success
 
 ## Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
-  Integrated Development Environments (IDEs)
-    Importance:
-      Streamlined workflow: IDEs combine multiple tools into a single interface, eliminating the need to switch between different              applications.
-      Code editing and navigation: They provide features for syntax highlighting, auto-completion, code refactoring, and easy navigation       within the codebase.
-      Compilation, debugging, and testing: IDEs integrate with compilers and debuggers, allowing developers to compile, run, and debug         their code directly within the IDE.
-      Version control integration: Modern IDEs often integrate with VCSs, enabling developers to manage code changes, track history, and       collaborate efficiently.
+      Integrated Development Environments (IDEs)
+        Importance:
+            Streamlined workflow: IDEs combine multiple tools into a single interface, eliminating the need to switch between different              applications.
+             Code editing and navigation: They provide features for syntax highlighting, auto-completion, code refactoring, and easy                   navigation within the codebase.
+            Compilation, debugging, and testing: IDEs integrate with compilers and debuggers, allowing developers to compile, run, and                debug their code directly within the IDE.
+            Version control integration: Modern IDEs often integrate with VCSs, enabling developers to manage code changes, track                     history, and collaborate efficiently.
       
-      Examples:
-      Visual Studio (Microsoft)
-      Eclipse (Eclipse Foundation)
+          Examples:
+              Visual Studio (Microsoft)
+              Eclipse (Eclipse Foundation)
 
-   Version Control Systems (VCS)
-    Importance:
-      Code versioning and history: VCSs allow developers to track changes made to the codebase over time. This enables them to revert to       previous versions, compare differences, and recover lost or damaged code.
-      Collaboration and merging: VCSs facilitate collaboration between multiple developers working on the same project by providing            tools for merging code changes and resolving conflicts.
-      Branching and merging: VCSs enable developers to create and merge branches, allowing them to work on different versions of the           codebase simultaneously.
-      Code review and quality control: VCSs integrate with code review tools, facilitating the peer review process and ensuring code           quality.
+         Version Control Systems (VCS)
+            Importance:
+          Code versioning and history: VCSs allow developers to track changes made to the codebase over time. This enables them to                 revert to previous versions, compare differences, and recover lost or damaged code.
+          Collaboration and merging: VCSs facilitate collaboration between multiple developers working on the same project by providing            tools for merging code changes and resolving conflicts.
+          Branching and merging: VCSs enable developers to create and merge branches, allowing them to work on different versions of the           codebase simultaneously.
+          Code review and quality control: VCSs integrate with code review tools, facilitating the peer review process and ensuring code           quality.
     
-    Examples:
-      Git (open source)
-      Subversion (open source)
-      Microsoft Team Foundation Server (Microsoft)
+        Examples:
+          Git (open source)
+          Subversion (open source)
+          Microsoft Team Foundation Server (Microsoft)
 
 ## What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
