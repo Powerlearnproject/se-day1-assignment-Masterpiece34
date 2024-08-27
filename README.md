@@ -11,11 +11,11 @@ Software Engineering Day1 Assignment
 
 ## Identify and describe at least three key milestones in the evolution of software engineering.
 
-  1. Structured Programming (1960s-1970s): This marked a shift away from unstructured code, introducing concepts like modularity,             control structures (e.g., loops, conditionals), and data structures. It emphasized breaking down complex code into smaller,              manageable units and improved code readability and maintainability.
+      1. Structured Programming (1960s-1970s): This marked a shift away from unstructured code, introducing concepts like modularity,             control structures (e.g., loops, conditionals), and data structures. It emphasized breaking down complex code into smaller,              manageable units and improved code readability and maintainability.
 
-  2. Object-Oriented Programming (OOP) (1980s): OOP introduced the concept of objects, which encapsulated data and behavior together.         Objects could interact with each other through methods and messages, promoting code reuse, polymorphism, and encapsulation. OOP          revolutionized software design and enabled the creation of more complex and maintainable systems.
+      2. Object-Oriented Programming (OOP) (1980s): OOP introduced the concept of objects, which encapsulated data and behavior                    together. Objects could interact with each other through methods and messages, promoting code reuse, polymorphism, and                   encapsulation. OOP revolutionized software design and enabled the creation of more complex and maintainable systems.
 
-  3. Agile Development (2000s): Agile methodologies, such as Scrum and Kanban, gained prominence. They emphasized iterative development,      customer involvement, and continuous testing. Agile practices allowed for faster software delivery, better responsiveness to             changing requirements, and improved collaboration between development teams and stakeholders.
+      3. Agile Development (2000s): Agile methodologies, such as Scrum and Kanban, gained prominence. They emphasized iterative                   development,customer involvement, and continuous testing. Agile practices allowed for faster software delivery, better                    responsiveness to  changing requirements, and improved collaboration between development teams and stakeholders.
 
 ## List and briefly explain the phases of the Software Development Life Cycle.
 
